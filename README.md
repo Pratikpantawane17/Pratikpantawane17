@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Pratik Pantawane</h1>
-<h3 align="center">Full-Stack Developer | DevOps Learner | ATF Fellow'24 | Technical Lead @WCE ACM</h3>
+<h3 align="center">Full-Stack Developer | DevOps Learner | ATF Fellow'24 | Mentor, Ex-Technical Lead @WCE ACM</h3>
 
 <p align="center">
   <img src="https://github.com/Pratikpantawane17/Pratikpantawane17/blob/main/assets/hero-dev.gif" width="80%" alt="coding dev gif">
